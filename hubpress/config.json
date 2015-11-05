@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "silviu",
-    "repositoryName": "silviu.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"silviu","repositoryName":"silviu.github.io","branch":"master"},"site":{"title":"Silvash","url":"https://silviu.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//silviu.github.io/themes/Casper"}}
